@@ -15,5 +15,9 @@
     * [列印傳票(未過帳)](02/PrintJournal.md)
     * [傳票過帳](02/PostingJournal.md)
 * [沖應付帳款]
-    * [瀏覽未付款廠商]
+    * [瀏覽未付款廠商](03/NotPaidSupplier.md)
     * [廠商付款建議]
+* [報表作業](04/Report.md)
+    * [進入報表驗證專屬公司 CECI-History](04/Report.md)
+    * [綜合損益表](04/IncomeStatement.md)
+    * [資產負債表](04/BalanceSheet.md)
